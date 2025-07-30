@@ -1,0 +1,5 @@
+{
+  "name": "한자 플래시카드 (Hanja Flashcards)",
+  "description": "An interactive Hanja flashcard application for learning and practicing Chinese characters. Users can flip cards to see the character's meaning and sound, and use a digital brush to practice writing.",
+  "requestFramePermissions": []
+}
